@@ -1,5 +1,5 @@
 # server-shop
-Example of my work.
+Example of my work (c) 2016.
 
 
 Screenshots
