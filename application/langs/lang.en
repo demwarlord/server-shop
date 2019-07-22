@@ -1,0 +1,470 @@
+# Index
+
+live_chat           = Live chat
+login               = Login
+logout              = Logout
+toggle_navigation   = Toggle navigation
+
+home                = Home
+about               = About
+technology          = Technology
+products            = Products
+blog                = Blog
+services            = Services
+contact             = Contact us
+
+faq_button          = FAQ
+
+complete_order      = Complete order
+purchase            = Purchase
+
+dashboard           = Dashboard
+
+overview            = Overview
+servers             = Servers
+webspace            = Webspace
+billing             = Billing/Finances
+settings            = Settings
+security            = Security
+support             = Support/Tickets
+
+mb                  = MB
+gb                  = GB
+bit                 = Bit
+kbit                = KBit
+mbit                = MBit
+sec                 = Sec
+
+# Footer
+
+who_we_are          = Who we are
+more_about_us       = More about us
+latest_tweets       = Latest tweets
+
+get_in_touch        = Get in touch
+get_in_touch_text   = """Global Contact Details"""
+
+free_updates        = Free updates
+free_updates_text   = """Subscribe to our newsletter to get all the latest offers. Don’t worry, we don’t like SPAM too."""
+free_updates_subs   = Subscribe
+free_updates_subsd  = Subscribed
+free_updates_plc    = Enter your email address
+
+# Slider
+
+slider_6_header     = """<strong>Your own webspace</strong><br>Starts at host"""
+slider_6_text       = """
+                        <li>- Lorem Ipsum is simply dummy text</li>
+                        <li>- Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+                      """
+
+slider_7_header     = """<strong>Share your ideas and experience</strong><br>Webspace at host"""
+slider_7_text       = """
+                        <li>- Lorem Ipsum is simply dummy text</li>
+                        <li>- Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+                      """
+
+slider_8_header     = """<strong>Learn more about us<br>and how we work</strong>"""
+slider_8_text       = """
+                        <li>- Read our story and principles <a style="margin-left:10px; vertical-align: sub; text-decoration: none;" href="/about"><i class="icon icon-arrow-right"></i></a></li>
+                      """
+
+slider_9_header     = """<strong>we are happy to help you with any problem</strong><br>support team 24/7"""
+slider_9_text       = """
+                        <li>- Multilingual support employees</li>
+                        <li>- We are able to perform the most hardest tasks!</li>
+                      """
+
+our_clients         = OUR CLIENTS
+purchase_it_now     = PURCHAISE IT NOW
+
+# Products
+
+product_dedicated   = dedicated servers overview
+product_webspace    = webspace overview
+
+product_name                = Name
+product_cpu                 = CPU
+product_ram                 = RAM
+product_hdd                 = HDD
+product_band                = BANDWIDTH
+product_price               = PRICE
+product_location            = LOCATION
+product_available_upgrades  = Available upgrades
+
+# Errors
+
+page404             = 404 Page not found
+pagesys             = System error. Contact administrator
+
+# Login
+
+login_authorize     = Authorize
+login_username      = Username
+login_password      = Password
+login_forgot_password = Forgot password?
+login_sign_in       = Sign in
+login_forgot_txt    = """<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>"""
+login_email         = E-mail
+login_email_sent    = E-mail was sent
+login_email_submit  = Submit
+wrong_login         = Incorrect Login or Password!
+
+# Order
+
+order_payment_in_process            = PAYMENT IN PROCESS
+order_cancel_payment                = Cancel
+order_thank_you                     = THANK YOU FOR THE ORDER
+order_purchase_as                   = Purchase as
+order_business                      = Business
+order_personal                      = Personal
+order_if_registered                 = """If you have already registered please <a href="/login/">Log in</a>."""
+order_required_fields               = """All fields marked with * are required"""
+order_company_name                  = Company Name
+order_post_code                     = Post code
+order_city                          = City
+order_address                       = Address
+order_country                       = Country
+order_vat_number                    = VAT number
+order_position                      = Position
+order_sel_pos0                      = Select Position
+order_sel_pos1                      = Technical Support
+order_sel_pos2                      = Found a bug
+order_first_name                    = First name
+order_sel_tit0                      = Select Title
+order_sel_tit1                      = Mr.
+order_sel_tit2                      = Mrs.
+order_last_name                     = Last Name
+order_email_address                 = Email Address
+order_activate                      = Activate
+order_check_code                    = Check Code
+order_validated                     = Validated
+order_validation_code               = Validation code
+order_phone                         = Phone
+
+order_you_logged_as                 = You are logged as
+order_name                          = Name
+
+order_payment_method                = Payment method
+order_payment_txt                   = """
+                                        <p><strong>Important: Pro rata charge</strong></p>
+                                        <p>Please note the above amount covers your next billing period which always starts from the first of the month. In addition, a pro rata charge will be added to your next invoice, the pro rata amount covers the period from your service commencement until the first billing date. We will inform you via email of the exact cost of the pro rata period once your service is up and running. For more information, click here.</p>
+                                      """
+order_summary                       = Order Summary
+order_included                      = Included
+order_payment_period                = Payment period
+order_total                         = TOTAL
+order_including_vat                 = Including VAT
+order_edit                          = Edit
+order_purchase                      = Purchase
+order_price_without_discounts       = Price without discounts
+
+# Configurator
+
+cnf_configure_your_server           = Configure Your server
+cnf_your_server                     = Your Server
+cnf_included                        = Included
+cnf_additional                      = Additional
+cnf_quantity                        = Quantity
+cnf_total                           = Total
+cnf_add_to_cart                     = Add to cart
+cnf_save_to_cart                    = Save to cart
+cnf_server_location                 = Location
+cnf_sel_loc0                        = Select Datacentre Location
+cnf_sel_loc1                        = Netherlands
+cnf_sel_loc2                        = United States
+cnf_server_comment                  = Comment
+cnf_btn_add_comment                 = Add Comment
+cnf_btn_remove_comment              = Remove comment
+cnf_btn_save_comment                = Save comment
+
+# Cart
+
+cart_cart                           = CART
+cart_monthly                        = Monthly
+cart_setup_fee                      = Setup fee
+cart_discount                       = Discount
+cart_checkout                       = Checkout
+
+# Contact us
+
+ask_a_question                      = Ask us a question
+ask_a_question_txt                  = """Simply fill out the form below and the Host team will be in touch to help."""
+ask_department                      = Department
+ask_data_center_location            = Data Center Location
+
+ask_sel_dep0                        = Select
+ask_sel_dep1                        = Technical Support
+ask_sel_dep2                        = Software Developement
+
+ask_sel_dc0                         = Select
+ask_sel_dc1                         = Germany
+ask_sel_dc2                         = France
+
+ask_first_name                      = First name
+ask_last_name                       = Last Name
+ask_email_address                   = E-mail
+ask_phone                           = Phone
+
+ask_question                        = Your question or comments
+ask_callback                        = Please call me back on the number provided
+ask_check_img                       = This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
+ask_submit                          = Submit
+
+ask_thank_you                       = """Thank you for your question!"""
+
+ci_contact_info                     = Contact info
+ci_business_hours                   = Business hours
+ci_business_hours_txt               = """8:30 - 17:30 CET Mo/Fri"""
+ci_telephone_fax                    = Telephone & fax
+ci_telephone_fax_txt                = """T +31 20 316 2880<br>F +31 20 316 2890"""
+ci_visitors_address                 = Visitors address
+ci_visitors_address_txt             = """host Limited, Cemtown 14 Street, Belize City, Belize"""
+ci_sales                            = Sales
+ci_sales_txt                        = """<a href="#">sales@company.com</a>"""
+ci_support                          = Support
+ci_support_txt                      = """<a href="#">support@company.com</a>"""
+ci_billing                          = Billing
+ci_billing_txt                      = """<a href="#">billing@company.com</a>"""
+
+# Blog
+
+blog_news                           = news
+
+# FAQ
+
+fq_categories                       = categories
+fq_read_more                        = read more
+fq_no_comments                      = no comments
+fq_comment_count                    = comment
+fq_hosting_faq                      = Hosting FAQ
+fq_last_comments_from               = Last comments from
+fq_comments                         = comments
+fq_related_articles                 = related articles
+fq_add_comment                      = add your comment
+fq_comments_list                    = comments
+fq_vote                             = vote
+fq_name                             = Name
+fq_mail                             = E-mail
+fq_your_comment                     = Your comment
+fq_submit                           = submit
+fq_reply                            = reply
+fq_sorry_no_comments                = Sorry, but no one has posted a comment yet, you can be the first.
+fq_views                            = views
+fq_votes                            = votes
+fq_thanks                           = Thanks!
+fq_question                         = ques.
+fq_view_all                         = view all
+fq_useful                           = Was this comment useful?
+fq_yes                              = Yes
+fq_no                               = No
+fq_most_read                        = most read
+fq_thanks_for_comment               = Thank you, your comment has been added and will be published after validation.
+
+#
+# DASHBOARD
+#
+
+# Billing
+
+db_tab_unpaid_documents             = Unpaid documents
+db_tab_billing_history              = Billing history
+db_hdr_unpaid_documents             = Unpaid documents
+db_no_unpaid_documents              = No unpaid documents
+db_tbl_document                     = Document
+db_tbl_date                         = Date
+db_tbl_status                       = Status
+db_tbl_due_days                     = Due days
+db_tbl_amount                       = Amount
+db_tbl_still_due                    = Still due
+db_tbl_pending                      = Pending
+
+db_pay_by                           = Pay by
+db_pay_by_txt                       = """
+                                        <p><strong>Important: Pro rata charge</strong></p>
+                                        <p>Please note the above amount covers your next billing period which always starts from the first of the month. In addition, a pro rata charge will be added to your next invoice, the pro rata amount covers the period from your service commencement until the first billing date. We will inform you via email of the exact cost of the pro rata period once your service is up and running. For more information, click here.</p>
+                                      """
+db_enter_bonus                      = ENTER BONUS
+db_bil_selected                     = SELECTED
+db_bil_bonus                        = BONUS
+db_bil_total                        = TOTAL
+db_hdr_billing_history              = Billing history
+db_bil_select_start_date            = SELECT START DATE
+db_bil_select_end_date              = SELECT END DATE
+db_bil_datepicker_close             = Close
+
+db_bil_no_records                   = No records
+
+db_tbl_hist_date                    = Date
+db_tbl_hist_caption                 = Caption
+db_tbl_hist_debit                   = Debit
+db_tbl_hist_credit                  = Credit
+db_tbl_hist_documents               = Documents
+
+# Overview
+
+db_ovvw_customer_data               = Customer data
+db_ovvw_your_servers                = Your Servers
+db_ovvw_your_tickets                = Your tickets
+db_ovvw_customer_number             = Customer number
+db_ovvw_full_name                   = Full Name
+db_ovvw_e_mail                      = E-Mail
+db_ovvw_last_login                  = Last Login
+db_ovvw_ip                          = IP
+db_ovvw_not_logged                  = Not yet ever logged
+db_ovvw_sms_notification_lng        = SMS Notification Notification Language
+db_ovvw_sms_notification            = SMS Notification
+db_ovvw_financial_data              = Financial data
+db_ovvw_account_balance             = account balance
+db_ovvw_last_invoice                = Last invoice
+db_ovvw_no_paid_documents           = No paid documents
+db_ovvw_amount                      = Amount
+db_ovvw_next_invoice                = Next invoice
+db_ovvw_no_unpaid_documents         = No unpaid documents
+db_ovvw_auto_pay                    = Auto Pay
+db_ovvw_pay_now                     = Pay Now
+db_ovvw_invoice_history             = Invoice History
+
+# Settings
+
+db_set_customer_settings            = Customer settings
+db_set_password                     = Password
+db_set_confirm_password             = Confirm password
+db_set_reset                        = Reset
+
+# Security
+
+db_security_hdr                     = Customer Login Log
+db_security_no_records              = No records
+db_security_tbl_date                = Date
+db_security_tbl_ip                  = IP Address
+db_security_tbl_ua                  = User Agent
+
+# Tickets
+
+db_tick_ticket_system               = Ticket System
+db_tick_tickets                     = Tickets
+db_tick_open_tickets                = Open Tickets
+db_tick_pending_tickets             = Pending Tickets
+db_tick_closed_tickets              = Closed Tickets
+db_tick_ticket_no                   = Ticket No.
+db_tick_close_ticket                = Close Ticket
+db_tick_upload_file                 = Upload File
+db_tick_answer_ticket               = Answer Ticket
+db_tick_submit_answer               = Submit Answer
+db_tick_concerned_server            = Concerned server
+db_tick_messages                    = Messages
+db_tick_no_open_tickets             = """There is no open tickets..."""
+db_tick_no_pending_tickets          = """There is no pending tickets..."""
+db_tick_delete_ticket               = Delete Ticket
+db_tick_reopen_ticket               = Reopen Ticket
+db_tick_no_closed_tickets           = """There is no closed tickets..."""
+db_tick_request_ticket              = Request a ticket
+db_tick_issue                       = Issue
+db_tick_sel00                       = """Select... (other)"""
+db_tick_sel01                       = """Network Problem"""
+db_tick_sel02                       = """IP Management"""
+db_tick_sel03                       = """Configuration Problem"""
+db_tick_sel04                       = """Server - Hardware"""
+db_tick_sel05                       = """Server - Software"""
+db_tick_sel06                       = """Billing / Invoicing"""
+db_tick_sel07                       = """Account balance"""
+db_tick_sel08                       = """Customer details"""
+db_tick_sel09                       = """Pending Order"""
+db_tick_sel10                       = """Abuse / Security Issues"""
+db_tick_sel11                       = """Domain Name"""
+db_tick_sel12                       = """Control Panel Issues"""
+db_tick_sel13                       = """Additional Services"""
+db_tick_question                    = Question
+db_tick_append_file                 = Append File
+db_tick_submit_ticket               = Submit Ticket
+
+# Servers
+
+db_srvr_warning                     = WARNING!
+db_srvr_gonna_reboot_txt            = """You are going to reboot your server"""
+db_srvr_yes_reboot                  = """Yes, reboot!"""
+db_srvr_no                          = """No, thank you!"""
+db_srvr_gonna_reinstall_txt         = """You are going to reinstall your server"""
+db_srvr_reinstall_txt               = """
+                                        <p>Reinstalling the operating system to your server will reboot your server,
+                                           format the entire hard disk and loads a predefined OS image of your choice
+                                           to the main hard disk. As formatting hard disks an rebooting takes some time,
+                                           this process can take up to 15 minutes.</p>
+                                        <p>Warning: Reinstalling OS will delete ALL your personal configurations and files!</p>
+                                    """
+db_srvr_reinstall_sel_os            = """Please select what OS you want to be installed on your server"""
+db_srvr_you_selected_os             = You have selected
+db_srvr_new_root_password           = New root password
+db_srvr_confirm_password            = Confirm password
+db_srvr_current_user_password       = Current user password
+db_srvr_yes_reinstall               = """Yes, reinstall!"""
+db_srvr_active_servers              = Active Servers
+db_srvr_network_status              = Network Status
+db_srvr_due_invoices                = Due Invoices
+db_srvr_open_tickets                = Open Tickets
+db_srvr_dedicated_servers           = Dedicated servers
+db_srvr_virtual_servers             = Virtual servers
+db_srvr_servers                     = Servers
+db_srvr_manage                      = Manage
+db_srvr_traffic_usage               = Traffic usage
+db_srvr_reboot                      = Reboot
+db_srvr_reinstall                   = Reinstall
+db_srvr_monthly_visitors            = Monthly visitors
+db_srvr_chart                       = Chart
+db_srvr_cloud_storage_usage         = Cloud Storage Usage
+db_srvr_show_my_files               = Show my Files
+db_srvr_virtual_machines            = Virtual machines
+db_srvr_report_log                  = Report log
+db_srvr_ram_usage                   = """RAM USAGE %"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
